@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "[Re] Goal-conditioned Imitation Learning"
+excerpt: " Reproduced the GoalGAIL results from Figure 3<a href='https://openreview.net/forum?id=HJlCUp5M6H'>Open Review</a><br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Examined the code and modified how often the trajectories were being modified by HER and expert relabeling and significantly
+improved the poor results, but still did not achieve the same results for the baselines. GAIL appeared to have great difficulty
+improving its initial results, while HER was able to achieve a greater value fairly early on. Initially expected GAIL to outperform
+HER and for HER to slowly catch up, however this might have appeared farther on in training. Overall though, goalGAIL
+did perform more strongly than either of the baselines.
