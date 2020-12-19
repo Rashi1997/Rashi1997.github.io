@@ -1,6 +1,6 @@
 ---
 title: "[Re] Goal-conditioned Imitation Learning"
-excerpt: " Reproduced the GoalGAIL results from Figure 3<a href='https://openreview.net/forum?id=HJlCUp5M6H'>Open Review</a><br/><img src='/images/500x300.png'>"
+excerpt: " Reproduced the GoalGAIL results from Figure 3<a href='https://openreview.net/forum?id=HJlCUp5M6H'>Open Review</a><br/><img src='/images/results.png'>"
 collection: portfolio
 ---
 
