@@ -23,6 +23,6 @@ collection: portfolio
 
 10. The background of the balls panel changes to black on mouse over and changes back to white on mouse exit, while playing the game.
 
-<a href="https://github.com/Rashi1997/Bouncy-Balls/blob/main/v1.jar">Download JAR</a><br>
+<a href="https://github.com/Rashi1997/Bouncy-Balls/blob/main/v1.jar">Download JAR</a><br/>
 
 <a href="https://github.com/Rashi1997/Bouncy-Balls">Github</a>
