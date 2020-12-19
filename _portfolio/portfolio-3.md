@@ -1,6 +1,6 @@
 ---
 title: "Bouncy Balls"
-excerpt: "A game which will keep the user entertained while the programs are compiling or executing. The game consists of the balls bouncing around the window in an entertaining way.<br/><img src='/images/bb.png'>"
+excerpt: "A game which will keep the user entertained while the programs are compiling or executing. The game consists of the balls bouncing around the window in an entertaining way.<br/><img src='/images/bb.png' width='100'>"
 collection: portfolio
 ---
 
