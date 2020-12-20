@@ -2,6 +2,8 @@
 title: "[Re] Goal-conditioned Imitation Learning"
 excerpt: " Reproduced the GoalGAIL results from Figure 3<br/><a href='https://openreview.net/forum?id=HJlCUp5M6H'>Open Review</a><br/><img src='/images/results.png'>"
 collection: portfolio
+category: 
+  - Reinforcement Learning
 ---
 
 Examined the code and modified how often the trajectories were being modified by HER and expert relabeling and significantly

@@ -2,6 +2,10 @@
 title: "Exploring Spatial Constraints and Temporal Information Within the MONET Framework"
 excerpt: "A compositional generative model for unsupervised scene decomposition and representation learning.<br/><a href='https://github.com/Rashi1997/monet-with-spatially-constrained-segmentation'>Github</a><br/><img src='/images/monet.png'>"
 collection: portfolio
+category: 
+  - Computer Vision
+  - Reinforcement Learning
+  
 ---
 Presented MONet, a compositional generative model for unsupervised scene decomposition and representation learning and
 successfully incorporated an effective image segmentation method which integrates local spatial constraints to the baseline
