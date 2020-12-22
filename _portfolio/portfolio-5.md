@@ -1,6 +1,6 @@
 ---
 title: "Cupcake Redesign"
-excerpt: "Redesign of home page of the Toronto Cupcake website based on usability and accessibility standards.<br/><a href='https://rocky-basin-40759.herokuapp.com/'>Learn More</a><br/><img src='/images/cupcake.png' width='450'>"
+excerpt: "Redesign of home page of the Toronto Cupcake website based on usability and accessibility standards.<br/><a href='https://rocky-basin-40759.herokuapp.com/'>Learn More</a><br/><img src='/images/cupcake.gif' width='450'>"
 collection: portfolio
 category:
   - UI/UX Design

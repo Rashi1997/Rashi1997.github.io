@@ -1,7 +1,7 @@
 ---
 title: "Repohub"
 excerpt: "An interactive App to search Github repositories.
-<br/><a href='https://warm-castle-41635.herokuapp.com/'>Learn More</a><br/><img src='/images/repohub.png' width='450'>"
+<br/><a href='https://warm-castle-41635.herokuapp.com/'>Learn More</a><br/><img src='/images/repohub.gif' width='450'>"
 collection: portfolio
 category:
   - UI/UX Design
