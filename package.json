@@ -20,7 +20,14 @@
   "engines": {
     "node": ">= 0.10.0"
   },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
   "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
+    "git-cz": "^4.7.6",
     "npm-run-all": "^1.7.0",
     "onchange": "^2.2.0",
     "uglify-js": "^2.6.1"
@@ -28,6 +35,7 @@
   "scripts": {
     "uglify": "uglifyjs assets/js/vendor/jquery/jquery-1.12.4.min.js assets/js/plugins/jquery.fitvids.js assets/js/plugins/jquery.greedy-navigation.js assets/js/plugins/jquery.magnific-popup.js assets/js/plugins/jquery.smooth-scroll.min.js assets/js/plugins/stickyfill.min.js assets/js/_main.js -c -m -o assets/js/main.min.js",
     "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
-    "build:js": "npm run uglify"
+    "build:js": "npm run uglify",
+    "commit": "git-cz"
   }
 }
